@@ -118,7 +118,7 @@ const gitRepo = 'https://api.github.com/repos/';
         react: react,
         filename: __filename
     },
-        async(Void, citel) => {
+        async(Void, citel, text) => {
             if (!text) return citel.reply(`Please enter a valid GitHub *Ip Adress*.`);            
             let ip = await fetchJson('https://api.zahwazein.xyz/information/iplookup?query=' + args[0] + "&apikey=zenzkey_998568986d");
             try {
