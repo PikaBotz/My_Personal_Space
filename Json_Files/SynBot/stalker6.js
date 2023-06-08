@@ -6,7 +6,7 @@ const git = 'https://api.github.com/users/';
 const gitRepo = 'https://api.github.com/repos/';
  
     cmd({
-        pattern: "gitHub-stalk0",
+        pattern: "github-stalk00",
      //   alias: ["git-stalk"],
         category: "🔎 Stalker 🔎",
         desc: `Stalk any GitHub.com account.`,
@@ -48,7 +48,7 @@ const gitRepo = 'https://api.github.com/repos/';
     );
     
     cmd({
-        pattern: "repo-stalk0",
+        pattern: "repo-stalk00",
     //    alias: ["repository-stalk"],
         category: "🔎 Stalker 🔎",
         desc: `Stalk any GitHub.com account's public repository.`,
@@ -62,7 +62,7 @@ const gitRepo = 'https://api.github.com/repos/';
             let txt_2 = text.split("/")[1];
             let st_1 = await fetchJson(git + text);
             let st_2 = await fetchJson(gitRepo + txt_1 + "/" + txt_2);
-            if(stalk.login === 'undefined'){
+            if(st_1.login === 'undefined'){
             citel.reply('_Please check the ownerName given!_');
             } else if (st_2.name === "Error"){
             citel.reply('_Invalid repository given Or the repository is private!_');
@@ -110,7 +110,7 @@ const gitRepo = 'https://api.github.com/repos/';
     );
     
     cmd({
-        pattern: "ip0",
+        pattern: "ip00",
      //   alias: "ip-stalk",
         category: "🔎 Stalker 🔎",
         desc: `Stalk anyone's details by their *IP ADDRESS*.`,
