@@ -1,4 +1,4 @@
-const {fetchJson,cmd,prefix,fancy10,argsx} = require('../lib');
+const {fetchJson,cmd,prefix,fancy10} = require('../lib');
 const axios = require('axios');
 const ins = '```Inspecting...```';
 const react = "🔎";
@@ -6,7 +6,7 @@ const git = 'https://api.github.com/users/';
 const gitRepo = 'https://api.github.com/repos/';
  
     cmd({
-        pattern: "gitHub-stalk11",
+        pattern: "gitHub-stalk0",
      //   alias: ["git-stalk"],
         category: "🔎 Stalker 🔎",
         desc: `Stalk any GitHub.com account.`,
@@ -16,7 +16,7 @@ const gitRepo = 'https://api.github.com/repos/';
     },
         async(Void, citel, text) => {
             if (!text) return citel.reply(`Please enter a valid GitHub Username.`);
-            let stalk = await fetchJson(git + argsx[0]);
+            let stalk = await fetchJson(git + text);
             if(stalk.login === 'undefined'){
             citel.reply('_Please check the username given!_');
             } else {
@@ -48,7 +48,7 @@ const gitRepo = 'https://api.github.com/repos/';
     );
     
     cmd({
-        pattern: "repo-stalk11",
+        pattern: "repo-stalk0",
     //    alias: ["repository-stalk"],
         category: "🔎 Stalker 🔎",
         desc: `Stalk any GitHub.com account's public repository.`,
@@ -60,7 +60,7 @@ const gitRepo = 'https://api.github.com/repos/';
             if (!text) return citel.reply(`Please enter a valid GitHub *<ownerName>/<repoName>*\n\n*Ex:* PikaBotz/SynBot-MD`);
             let txt_1 = text.split("/")[0];
             let txt_2 = text.split("/")[1];
-            let st_1 = await fetchJson(git + argsx[0]);
+            let st_1 = await fetchJson(git + text);
             let st_2 = await fetchJson(gitRepo + txt_1 + "/" + txt_2);
             if(stalk.login === 'undefined'){
             citel.reply('_Please check the ownerName given!_');
@@ -110,7 +110,7 @@ const gitRepo = 'https://api.github.com/repos/';
     );
     
     cmd({
-        pattern: "ip11",
+        pattern: "ip0",
      //   alias: "ip-stalk",
         category: "🔎 Stalker 🔎",
         desc: `Stalk anyone's details by their *IP ADDRESS*.`,
