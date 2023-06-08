@@ -1,4 +1,4 @@
-const {fetchJson,cmd,prefix,fancy10,args} = require('../lib');
+const {fetchJson,cmd,prefix,fancy10,argsx} = require('../lib');
 const axios = require('axios');
 const ins = '```Inspecting...```';
 const react = "🔎";
