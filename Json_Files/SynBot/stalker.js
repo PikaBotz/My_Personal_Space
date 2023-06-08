@@ -6,8 +6,8 @@ const git = 'https://api.github.com/users/';
 const gitRepo = 'https://api.github.com/repos/';
  
     cmd({
-        pattern: "gitHub",
-        alias: ["git"],
+        pattern: "gitHub-stalk",
+        alias: ["git-stalk"],
         category: "🔎 Stalker 🔎",
         desc: `Stalk any GitHub.com account.`,
         use: '<text>',
@@ -48,8 +48,8 @@ const gitRepo = 'https://api.github.com/repos/';
     );
     
     cmd({
-        pattern: "repo",
-        alias: ["repository"],
+        pattern: "repo-stalk",
+        alias: ["repository-stalk"],
         category: "🔎 Stalker 🔎",
         desc: `Stalk any GitHub.com account's public repository.`,
         use: '<text>',
@@ -111,6 +111,7 @@ const gitRepo = 'https://api.github.com/repos/';
     
     cmd({
         pattern: "ip",
+        alias: "ip-stalk",
         category: "🔎 Stalker 🔎",
         desc: `Stalk anyone's details by their *IP ADDRESS*.`,
         use: '<text>',
