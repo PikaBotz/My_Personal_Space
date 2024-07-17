@@ -47,4 +47,10 @@
    "url": "https://gist.githubusercontent.com/PikaBotz/47012764fa3f17a9695d8954936bdad9/raw/xvid.js",
    "desc": "Download videos from xvideos website using url or query string"
  },
+  {
+   "name": "nsfw.js",
+   "type": "package",
+   "url": "https://gist.githubusercontent.com/PikaBotz/4c6c5dc02ec1d26d13a078354d78fa37/raw/nsfw.js",
+   "desc": "A package with full of nsfw and anime commands"
+ }
 ]
