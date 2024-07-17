@@ -10,5 +10,11 @@
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/65e2331104ec9ddbb7c7eff268dee893/raw/0b254e38e34196f859c0c1359bd44d4f68507c7e/logomaker.js",
    "desc": "Package of many commands to create Text To stylish Logo-Images"
+ },
+ {
+   "name": "photooxy.js",
+   "type": "package",
+   "url": "https://gist.githubusercontent.com/PikaBotz/eed388847aa73ee2adab7e1a90afedaf/raw/a7f0cdc0fd6e07ed7252f329f56014e793f14d5e/photooxy.js",
+   "desc": "Package of many commands to create Text To stylish Banner-Images"
  }
 ]
