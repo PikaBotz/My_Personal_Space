@@ -40,5 +40,11 @@
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/8901760f569c2dd8a32e33d82db3d787/raw/xnxx.js",
    "desc": "Download videos from xnxx website using url or query string"
- }
+ },
+ {
+   "name": "xvid.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/47012764fa3f17a9695d8954936bdad9/raw/xvid.js",
+   "desc": "Download videos from xvideos website using url or query string"
+ },
 ]
