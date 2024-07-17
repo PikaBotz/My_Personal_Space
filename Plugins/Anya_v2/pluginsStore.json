@@ -1,5 +1,11 @@
 [
  {
+   "name": "blur.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/9e4cca81c7040e20981ebb092f4dd64d/raw/29c8368b025e28c35136b4ddaa548e97706cefec/blur.js",
+   "desc": "Blur any image accordingly"
+ },
+ {
    "name": "textpro.js",
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/39364fc1c4045312bd4320098e5b423a/raw/39313355b242be8a0d45dc9ef5d9c646013b3326/textpro.js",
