@@ -2,19 +2,19 @@
  {
    "name": "blur.js",
    "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/9e4cca81c7040e20981ebb092f4dd64d/raw/blur.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/acc8ad4c38a6dc88c61d02befae25776/raw/blur.js",
    "desc": "Blur any image accordingly"
  },
  {
    "name": "whitepad.js",
    "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/3854ba139ac927e9752ccd28e3efbf5a/raw/whitepad.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/ae0952763d82b7257c033ca1ae6ce36a/raw/whitepad.js",
    "desc": "Add white borders padding to your image"
  },
  {
    "name": "blurpad.js",
    "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/b5e14e93aef18ddd488d43eb6b2d3fa8/raw/blurpad.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/0961e99f72da032fd7dff8788937de1b/raw/blurpad.js",
    "desc": "Add same image blurred borders padding to your image accordingly"
  },
  {
@@ -38,7 +38,7 @@
  {
    "name": "xnxx.js",
    "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/a34cadec6cd85557b4a7136a45633389/raw/xnxx.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/8901760f569c2dd8a32e33d82db3d787/raw/xnxx.js",
    "desc": "Download videos from xnxx website using url or query string"
  }
 ]
