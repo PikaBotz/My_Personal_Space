@@ -2,37 +2,37 @@
  {
    "name": "blur.js",
    "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/9e4cca81c7040e20981ebb092f4dd64d/raw/29c8368b025e28c35136b4ddaa548e97706cefec/blur.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/9e4cca81c7040e20981ebb092f4dd64d/raw/blur.js",
    "desc": "Blur any image accordingly"
  },
  {
    "name": "whitepad.js",
    "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/3854ba139ac927e9752ccd28e3efbf5a/raw/bfa722a0713e1e327f14cc609dda4b59cade7d2a/whitepad.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/3854ba139ac927e9752ccd28e3efbf5a/raw/whitepad.js",
    "desc": "Add white borders padding to your image"
  },
  {
    "name": "blurpad.js",
    "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/b5e14e93aef18ddd488d43eb6b2d3fa8/raw/4f91524f495dd8a0157abcc3a977f82e9b641063/blurpad.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/b5e14e93aef18ddd488d43eb6b2d3fa8/raw/blurpad.js",
    "desc": "Add same image blurred borders padding to your image accordingly"
  },
  {
    "name": "textpro.js",
    "type": "package",
-   "url": "https://gist.githubusercontent.com/PikaBotz/39364fc1c4045312bd4320098e5b423a/raw/39313355b242be8a0d45dc9ef5d9c646013b3326/textpro.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/39364fc1c4045312bd4320098e5b423a/raw/textpro.js",
    "desc": "Package of many commands to create Text To stylish Text-Images"
  },
  {
    "name": "logomaker.js",
    "type": "package",
-   "url": "https://gist.githubusercontent.com/PikaBotz/65e2331104ec9ddbb7c7eff268dee893/raw/0b254e38e34196f859c0c1359bd44d4f68507c7e/logomaker.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/65e2331104ec9ddbb7c7eff268dee893/raw/logomaker.js",
    "desc": "Package of many commands to create Text To stylish Logo-Images"
  },
  {
    "name": "photooxy.js",
    "type": "package",
-   "url": "https://gist.githubusercontent.com/PikaBotz/eed388847aa73ee2adab7e1a90afedaf/raw/a7f0cdc0fd6e07ed7252f329f56014e793f14d5e/photooxy.js",
+   "url": "https://gist.githubusercontent.com/PikaBotz/eed388847aa73ee2adab7e1a90afedaf/raw/photooxy.js",
    "desc": "Package of many commands to create Text To stylish Banner-Images"
  }
 ]
