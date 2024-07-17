@@ -1,4 +1,10 @@
 [
+  {
+   "name": "mentionreply.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/d0ee3937adddbc7b3cc4b13a783c6cc9/raw/mentionreply.js",
+   "desc": "Auto replys if someone mentions bot or the owner"
+ },
  {
    "name": "blur.js",
    "type": "command",
