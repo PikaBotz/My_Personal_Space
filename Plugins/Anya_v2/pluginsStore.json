@@ -12,36 +12,6 @@
    "desc": "Blur any image accordingly"
  },
  {
-   "name": "whitepad.js",
-   "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/ae0952763d82b7257c033ca1ae6ce36a/raw/whitepad.js",
-   "desc": "Add white borders padding to your image"
- },
- {
-   "name": "blurpad.js",
-   "type": "command",
-   "url": "https://gist.githubusercontent.com/PikaBotz/0961e99f72da032fd7dff8788937de1b/raw/blurpad.js",
-   "desc": "Add same image blurred borders padding to your image accordingly"
- },
- {
-   "name": "textpro.js",
-   "type": "package",
-   "url": "https://gist.githubusercontent.com/PikaBotz/39364fc1c4045312bd4320098e5b423a/raw/textpro.js",
-   "desc": "Package of many commands to create Text To stylish Text-Images"
- },
- {
-   "name": "logomaker.js",
-   "type": "package",
-   "url": "https://gist.githubusercontent.com/PikaBotz/65e2331104ec9ddbb7c7eff268dee893/raw/logomaker.js",
-   "desc": "Package of many commands to create Text To stylish Logo-Images"
- },
- {
-   "name": "photooxy.js",
-   "type": "package",
-   "url": "https://gist.githubusercontent.com/PikaBotz/eed388847aa73ee2adab7e1a90afedaf/raw/photooxy.js",
-   "desc": "Package of many commands to create Text To stylish Banner-Images"
- },
- {
    "name": "xnxx.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/8901760f569c2dd8a32e33d82db3d787/raw/xnxx.js",
@@ -53,7 +23,7 @@
    "url": "https://gist.githubusercontent.com/PikaBotz/47012764fa3f17a9695d8954936bdad9/raw/xvid.js",
    "desc": "Download videos from xvideos website using url or query string"
  },
-  {
+ {
    "name": "nsfw.js",
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/4c6c5dc02ec1d26d13a078354d78fa37/raw/nsfw.js",
