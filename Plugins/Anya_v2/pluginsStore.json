@@ -27,12 +27,12 @@
    "name": "nsfw.js",
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/4c6c5dc02ec1d26d13a078354d78fa37/raw/nsfw.js",
-   "desc": "A package with many nsfw and hentai commands"
+   "desc": "A package with many nsfw hentai commands"
  },
   {
    "name": "sfw.js",
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/c9f15b85356146afbc5378d6baaaeb6c/raw/sfw.js",
-   "desc": "A package with many sfw and anime commands"
+   "desc": "A package with many sfw anime commands"
  }
 ]
