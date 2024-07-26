@@ -46,5 +46,11 @@
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/a637217927932a2af8741c9c12effc1d/raw/reaction.js",
    "desc": "A full package with many anime reaction commands"
-  }
+  },
+  {
+   "name": "autoreaction.js",
+   "type": "autoreply",
+   "url": "https://gist.githubusercontent.com/PikaBotz/930bd30257488d42e625b8ea1e7a6234/raw/autoreaction.js",
+   "desc": "Automatically send reaction tagged GIFs when autoreply enabled"
+   }
 ]
