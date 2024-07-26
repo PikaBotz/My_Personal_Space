@@ -35,10 +35,16 @@
    "url": "https://gist.githubusercontent.com/PikaBotz/4c6c5dc02ec1d26d13a078354d78fa37/raw/nsfw.js",
    "desc": "A package with many nsfw hentai commands"
  },
-  {
+ {
    "name": "sfw.js",
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/c9f15b85356146afbc5378d6baaaeb6c/raw/sfw.js",
    "desc": "A package with many sfw anime commands"
- }
+ },
+ {
+   "name": "reaction.js",
+   "type": "package",
+   "url": "https://gist.githubusercontent.com/PikaBotz/a637217927932a2af8741c9c12effc1d/raw/reaction.js",
+   "desc": "A full package with many anime reaction commands"
+  }
 ]
