@@ -52,5 +52,11 @@
    "type": "autoreply",
    "url": "https://gist.githubusercontent.com/PikaBotz/930bd30257488d42e625b8ea1e7a6234/raw/autoreaction.js",
    "desc": "Automatically send reaction tagged GIFs when autoreply enabled"
-   }
+ },
+ {
+   "name": "autowordreply.js",
+   "type": "autoreply",
+   "url": "https://gist.githubusercontent.com/PikaBotz/a1ab93297ecbe208e3f49653a7b60927/raw/autowordreply.js",
+   "desc": "Randomly tag members in a gc with matching word: nerd, gay, fuck etc... when autoreply enabled"
+  }
 ]
