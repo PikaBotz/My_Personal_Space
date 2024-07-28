@@ -42,6 +42,24 @@
    "desc": "Download videos from xvideos website using url or query string"
  },
   {
+   "name": "twitterdoc.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/8790e46ed6842914155cff155b5468a1/raw/twitterdoc.js",
+   "desc": "Download twitter videos as document using urls"
+ },
+  {
+   "name": "twitteraudio.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/2a745f5f16cacc7c5f94cff135924581/raw/twitteraudio.js",
+   "desc": "Download twitter video audios using urls"
+ },
+ {
+   "name": "twitteraudiodoc.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/5df6cc8737b6535cb0aeeda205070cda/raw/twitteraudiodoc.js",
+   "desc": "Download twitter video audios as document using urls"
+ },
+  {
    "name": "facebookdoc.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/98f95f2b82e071c9312cd10c3c211324/raw/facebookdoc.js",
