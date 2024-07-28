@@ -12,6 +12,12 @@
    "desc": "Extract user's profile picture or get random avatar pictures"
   },
   {
+   "name": "telesticker.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/8c6571d85ecd74d8fcebb7241ad8e33a/raw/telesticker.js",
+   "desc": "Download stickers from telegram using url"
+  },
+  {
    "name": "mentionreply.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/d0ee3937adddbc7b3cc4b13a783c6cc9/raw/mentionreply.js",
