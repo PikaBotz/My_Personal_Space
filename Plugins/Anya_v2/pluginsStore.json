@@ -42,6 +42,12 @@
    "desc": "Download videos from xvideos website using url or query string"
  },
  {
+   "name": "facebookaudiodoc.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/0f97fd7d72cdf56c89d0851f09783a10/raw/facebookaudiodoc.js",
+   "desc": "Download facebook video audios as document using urls"
+ },
+ {
    "name": "nsfw.js",
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/4c6c5dc02ec1d26d13a078354d78fa37/raw/nsfw.js",
