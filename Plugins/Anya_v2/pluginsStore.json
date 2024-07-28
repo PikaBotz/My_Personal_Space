@@ -6,6 +6,12 @@
    "desc": "Convert mp3 audios to black screen videos"
   },
   {
+   "name": "avatar.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/7a2edc3d145503f301d765f1d7587c2b/raw/avatar.js",
+   "desc": "Extract user's profile picture or get random avatar pictures"
+  },
+  {
    "name": "mentionreply.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/d0ee3937adddbc7b3cc4b13a783c6cc9/raw/mentionreply.js",
