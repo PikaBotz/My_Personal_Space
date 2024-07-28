@@ -6,6 +6,12 @@
    "desc": "Convert mp3 audios to black screen videos"
   },
   {
+   "name": "onwa.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/01b8b0c00e1ef4cf2792a772ad62938d/raw/onwa.js",
+   "desc": "Check if the entered number is on WhatsApp or not"
+  },
+  {
    "name": "avatar.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/7a2edc3d145503f301d765f1d7587c2b/raw/avatar.js",
