@@ -41,6 +41,18 @@
    "url": "https://gist.githubusercontent.com/PikaBotz/47012764fa3f17a9695d8954936bdad9/raw/xvid.js",
    "desc": "Download videos from xvideos website using url or query string"
  },
+  {
+   "name": "facebookdoc.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/98f95f2b82e071c9312cd10c3c211324/raw/facebookdoc.js",
+   "desc": "Download facebook videos as document using urls"
+ },
+  {
+   "name": "facebookaudio.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/40c1b0865315b0930f1a302b9eb92675/raw/facebookaudio.js",
+   "desc": "Download facebook video audios using urls"
+ },
  {
    "name": "facebookaudiodoc.js",
    "type": "command",
