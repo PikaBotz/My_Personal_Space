@@ -18,6 +18,12 @@
    "desc": "Download stickers from telegram using url"
   },
   {
+   "name": "listnum.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/70d3c68ddbbb9e9c067a2e39ef1c8a49/raw/listnum.js",
+   "desc": "Get list of numbers with matching country code in a group chat"
+  },
+  {
    "name": "mentionreply.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/d0ee3937adddbc7b3cc4b13a783c6cc9/raw/mentionreply.js",
