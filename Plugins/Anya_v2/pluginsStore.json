@@ -23,6 +23,12 @@
    "url": "https://gist.githubusercontent.com/PikaBotz/d94abcaac2ca063e5f49e762613e81c4/raw/stickersaver.js",
    "desc": "Bot will forward other's stickers to the owner number, that are sent in chats"
   },
+    {
+   "name": "kickall.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/c98edab71b34ff598b96ac42cc8dd454/raw/kickall.js",
+   "desc": "Remove everyone except the owners, from the initialised group chat"
+  },
   {
    "name": "telesticker.js",
    "type": "command",
