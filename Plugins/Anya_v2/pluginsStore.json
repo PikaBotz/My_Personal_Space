@@ -12,6 +12,12 @@
    "desc": "Check if the entered number is on WhatsApp or not"
   },
   {
+   "name": "jid.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/13d9ca6bfad0de604ab371c1200d9e37/raw/jid.js",
+   "desc": "Get group users jid"
+  },
+  {
    "name": "avatar.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/7a2edc3d145503f301d765f1d7587c2b/raw/avatar.js",
