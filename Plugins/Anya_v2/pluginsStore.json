@@ -18,6 +18,12 @@
    "desc": "Extract user's profile picture or get random avatar pictures"
   },
   {
+   "name": "stealpp.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/0c81a0cc709797e898e8a21351da3e05/raw/stealpp.js",
+   "desc": "Steal and set tagged user's profile picture"
+  },
+  {
    "name": "stickersaver.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/d94abcaac2ca063e5f49e762613e81c4/raw/stickersaver.js",
