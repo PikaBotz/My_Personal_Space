@@ -11,6 +11,12 @@
    "url": "https://gist.githubusercontent.com/PikaBotz/01b8b0c00e1ef4cf2792a772ad62938d/raw/onwa.js",
    "desc": "Check if the entered number is on WhatsApp or not"
   },
+ {
+   "name": "gitrepostalk.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/f001a91bd3c480ae7a97b1c1762a96d9/raw/gitrepostalk.js",
+   "desc": "Get github repository information"
+  },
   {
    "name": "jid.js",
    "type": "command",
