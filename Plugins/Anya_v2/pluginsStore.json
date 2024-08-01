@@ -138,6 +138,12 @@
    "desc": "A full package with many anime reaction commands"
   },
   {
+   "name": "randomgirl.js",
+   "type": "package",
+   "url": "https://gist.githubusercontent.com/PikaBotz/9d79a65a3c2938fc71b7837f8ec85c4d/raw/randomgirl.js",
+   "desc": "A full package of getting sexy girls images randomly"
+  },
+  {
    "name": "autoreaction.js",
    "type": "autoreply",
    "url": "https://gist.githubusercontent.com/PikaBotz/930bd30257488d42e625b8ea1e7a6234/raw/autoreaction.js",
