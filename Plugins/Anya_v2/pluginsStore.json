@@ -1,5 +1,11 @@
 [
   {
+   "name": "define.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/4f7c2d013c70fd4d264f56f10d1c60ba/raw/define.js",
+   "desc": "Get the defination of the entered word!"
+  },
+  {
    "name": "atv.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/ef1309f69b16e4b60793aa27c2f91929/raw/atv.js",
