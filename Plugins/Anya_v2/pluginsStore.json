@@ -1,5 +1,11 @@
 [
   {
+   "name": "mangatoon.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/9f2e23219cb8254289e3da5f91b0c30d/raw/mangatoon.js",
+   "desc": "Search for latest manga comics"
+  },
+  {
    "name": "define.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/4f7c2d013c70fd4d264f56f10d1c60ba/raw/define.js",
