@@ -6,6 +6,12 @@
    "desc": "Search for latest manga comics"
   },
   {
+   "name": "wallcraft.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/5ea44dce4779cb6749280a26fe7c9bda/raw/wallcraft.js",
+   "desc": "Search amazing wallpapers on wallpapercraft"
+  },
+  {
    "name": "define.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/4f7c2d013c70fd4d264f56f10d1c60ba/raw/define.js",
