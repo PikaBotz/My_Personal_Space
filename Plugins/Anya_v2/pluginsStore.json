@@ -1,4 +1,10 @@
 [
+    {
+   "name": "tonguetwister.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/d0662d23c9f30ece6e97f3d9007f8057/raw/tonguetwister.js",
+   "desc": "600+ hard tongue twisters"
+  },
   {
    "name": "mangatoon.js",
    "type": "command",
