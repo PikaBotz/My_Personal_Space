@@ -1,5 +1,11 @@
 [
     {
+   "name": "hanimetv.js",
+   "type": "package",
+   "url": "https://gist.githubusercontent.com/PikaBotz/3db3f748d1340554a26817b7b2f884df/raw/hanimetv.js",
+   "desc": "Search & download contents from hanime.tv"
+  },
+    {
    "name": "tonguetwister.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/d0662d23c9f30ece6e97f3d9007f8057/raw/tonguetwister.js",
