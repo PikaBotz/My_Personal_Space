@@ -1,3 +1,23 @@
-[
-  "android"
-]
+{
+  "validHosters": [
+    "android"
+  ],
+  "hostDetectionRules": {
+    "android": "!!env.ANDROID_ROOT",
+    "koyeb": "!!env.KOYEB",
+    "heroku": "!!env.HEROKU_APP_NAME",
+    "vercel": "!!env.VERCEL",
+    "netlify": "!!env.NETLIFY",
+    "aws": "!!env.AWS_EXECUTION_ENV",
+    "azure": "!!env.WEBSITE_INSTANCE_ID",
+    "gcp": "!!env.GCP_PROJECT",
+    "digitalocean": "!!env.DIGITALOCEAN",
+    "railway": "!!env.RAILWAY_ENVIRONMENT",
+    "flyio": "!!env.FLY_APP_NAME",
+    "glitch": "!!env.PROJECT_DOMAIN",
+    "render": "!!env.RENDER",
+    "firebase": "!!env.FIREBASE_CONFIG",
+    "cloudflare": "!!env.CLOUDFLARE",
+    "windows": "process.platform === 'win32'"
+  }
+}
