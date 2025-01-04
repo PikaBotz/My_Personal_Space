@@ -1,5 +1,11 @@
 [
     {
+   "name": "mstanya.js",
+   "type": "command",
+   "url": "https://gist.githubusercontent.com/PikaBotz/570d3adab81908cef69a95d642a04e15/raw/mstanya.js",
+   "desc": "Chat will Queen Anya Powered by mistral-large model"
+  },
+    {
    "name": "tonguetwister.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/d0662d23c9f30ece6e97f3d9007f8057/raw/tonguetwister.js",
