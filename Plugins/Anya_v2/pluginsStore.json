@@ -1,5 +1,11 @@
 [
     {
+   "name": "nsfwv2.js",
+   "type": "package",
+   "url": "https://gist.githubusercontent.com/PikaBotz/70db1d9f8052b3e38bb13e99fa50b9e8/raw/nsfwv2.js",
+   "desc": "A nsfw package of 3200 commands to jerk of fluently"
+  },
+    {
    "name": "mstanya.js",
    "type": "command",
    "url": "https://gist.githubusercontent.com/PikaBotz/570d3adab81908cef69a95d642a04e15/raw/mstanya.js",
