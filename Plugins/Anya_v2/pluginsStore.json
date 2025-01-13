@@ -1,5 +1,11 @@
 [
     {
+   "name": "hanimetv.js",
+   "type": "package",
+   "url": "https://gist.githubusercontent.com/PikaBotz/3db3f748d1340554a26817b7b2f884df/raw/hanimetv.js",
+   "desc": "A nsfw package of commands to jerk of fluently by watching hanime.tv videos and searches"
+  },
+    {
    "name": "nsfwv2.js",
    "type": "package",
    "url": "https://gist.githubusercontent.com/PikaBotz/70db1d9f8052b3e38bb13e99fa50b9e8/raw/nsfwv2.js",
